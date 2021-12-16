@@ -216,6 +216,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -232,11 +237,6 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17340,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -337,7 +337,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2170,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2160,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -392,11 +392,6 @@
 	},
 	{
 		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -586,5 +581,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 117
+	"total": 116
 }
